@@ -7,6 +7,7 @@
 - Monday, 26/9, 9:00-12:00
 
 ## Where?
+Building 101D, by the entrance to the canteen 
 
 <p align="center">  
   <img src="images/Coffee!.png">
