@@ -1,7 +1,5 @@
 # Coffee Time & Place
 
-
-## Where?
 <p align="center">  
-  <img src="images/Coffee!.jpg">
+  <img src="images/Coffee!.png">
 </p>
